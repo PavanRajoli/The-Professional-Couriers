@@ -109,7 +109,7 @@ Analyzes operational efficiency:
 
 Pavan Rajoli
 
-📧 Email: Pavanvr67@gmail.com
+📧 Email: pavanrajoli@gmail.com
 
 ---
 
