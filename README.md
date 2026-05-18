@@ -133,7 +133,7 @@ Pavan Rajoli
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTU5NTA2OTItNWNkMS00MjI4LTkxZDktYjA2ZjgyNDVmZjk4IiwidCI6ImEyNGY0OWI3LTM3YjEtNGVmZi1iMmZiLTA5OTI5M2E0ZDBjZSJ9)
 
 ## 💻 GitHub Repository
-[GitHub Repository](PASTE_YOUR_GITHUB_REPO_LINK_HERE)
+[GitHub Repository](https://github.com/PavanRajoli/The-Professional-Couriers/blob/main/README.md)
 
 ## 🌐 LinkedIn Post
 [LinkedIn Project Post](PASTE_YOUR_LINKEDIN_POST_LINK_HERE)
