@@ -138,9 +138,6 @@ Pavan Rajoli
 ## 🌐 LinkedIn Post
 [LinkedIn Project Post](PASTE_YOUR_LINKEDIN_POST_LINK_HERE)
 
----
-
----
 
 ---
 
