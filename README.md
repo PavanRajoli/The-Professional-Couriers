@@ -113,6 +113,21 @@ Pavan Rajoli
 
 ---
 
+# 🔗 Project Links
+
+## 📊 Power BI Dashboard
+[View Dashboard]([PASTE_YOUR_POWER_BI_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiOTU5NTA2OTItNWNkMS00MjI4LTkxZDktYjA2ZjgyNDVmZjk4IiwidCI6ImEyNGY0OWI3LTM3YjEtNGVmZi1iMmZiLTA5OTI5M2E0ZDBjZSJ9))
+
+## 💻 GitHub Repository
+[GitHub Repository](PASTE_YOUR_GITHUB_REPO_LINK_HERE)
+
+## 🌐 LinkedIn Post
+[LinkedIn Project Post](PASTE_YOUR_LINKEDIN_POST_LINK_HERE)
+
+---
+
+---
+
 # ⭐ Feedback
 
 Feedback and suggestions are always welcome!
