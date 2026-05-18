@@ -1,129 +1,159 @@
 # 🚚 TPC Logistics & Delivery Analytics Dashboard
 
-## 📌 Project Overview
+An interactive Power BI dashboard project built to analyze and monitor courier delivery operations, shipment performance, and logistics efficiency.
 
-This project is an interactive Power BI dashboard developed to analyze courier delivery operations and logistics performance.
+The dashboard transforms raw logistics data into meaningful business insights through dynamic visualizations and KPI tracking.
 
-The dashboard provides insights into:
-- Delivery efficiency
-- Shipment tracking
-- On-time delivery performance
-- Delivery trends
-- Area-wise and destination-wise analysis
+---
+
+# 📌 Project Objectives
+
+This project helps in:
+
+- Tracking delivery performance
+- Monitoring shipment status
+- Measuring on-time delivery efficiency
+- Identifying delayed delivery areas
+- Analyzing destination-wise shipment trends
+- Improving operational decision-making
 
 ---
 
 # 📊 Dashboard Pages
+
+## 🏠 Overview Dashboard
+
 ![Overview Dashboard](Overview.png)
 
-## 1️⃣ Overview Dashboard
-Provides a high-level operational summary including:
-- Total Consignments
-- Delivered Shipments
-- Pending Deliveries
-- On-Time Delivery Rate
+The Overview page provides a quick summary of logistics operations and overall delivery performance.
+
+### Key Features:
+- Total Shipments
+- Delivered vs Pending Orders
+- On-Time Delivery %
 - Average Delivery Days
-- Delivery Trends
-- Destination Analysis
+- Shipment Trend Analysis
+- Destination Insights
 
 ---
 
-## 2️⃣ Deliveries Dashboard
+## 🚛 Deliveries Dashboard
 
 ![Deliveries Dashboard](Deliveries.png)
 
-Focused on shipment-level operational analysis:
+This dashboard focuses on detailed shipment-level analysis and operational tracking.
+
+### Includes:
 - Delivery Area Analysis
-- Delivery Time Slot Distribution
-- Consignment Details Table
-- Interactive Shipment Tracking
+- Shipment Tracking Table
+- Delivery Time Analysis
+- Interactive Filtering
+- Destination Performance
 
 ---
 
-## 3️⃣ Performance Dashboard
+## ⚡ Performance Dashboard
 
 ![Performance Dashboard](Performance.png)
 
-Analyzes operational efficiency:
-- On-Time Delivery Performance
-- Fastest & Slowest Deliveries
+The Performance page evaluates operational efficiency and delivery speed.
+
+### Insights Covered:
+- Fastest Deliveries
+- Slowest Deliveries
+- On-Time vs Delayed Deliveries
 - Area-wise Performance Metrics
 - Delivery Days Distribution
 
 ---
 
-# 🛠️ Tools & Technologies Used
+# 🛠️ Tools & Technologies
 
 - Power BI
 - Power Query
 - DAX
-- Data Visualization
-- Business Intelligence
+- Excel / CSV Data
+- Data Visualization Techniques
 
 ---
 
-# 📈 Key KPIs
+# 📈 Project KPIs
 
 | KPI | Value |
 |---|---|
 | Total Consignments | 1536 |
-| Delivered | 1510 |
-| Pending | 26 |
+| Delivered Shipments | 1510 |
+| Pending Deliveries | 26 |
 | On-Time Delivery Rate | 87.67% |
-| Avg Delivery Days | 2.21 |
+| Average Delivery Days | 2.21 |
 
 ---
 
-# 📌 Key Insights
+# 🔍 Key Insights
 
-- Majority of consignments were successfully delivered.
-- Most deliveries were completed within 1–3 days.
-- Bengaluru and Hubli handled the highest shipment volumes.
-- Certain locations showed higher delivery delays.
-- Operational efficiency remained high with an 87.67% on-time delivery rate.
-
----
-
-# 📷 Dashboard Preview
-
-![Overview Dashboard](Overview.png)
-
----
-![Deliveries Dashboard](Deliveries.png)
+- Most consignments were delivered successfully with a high completion rate.
+- Deliveries between 1–3 days accounted for the majority of shipments.
+- Bengaluru and Hubli recorded the highest delivery volumes.
+- Some delivery areas experienced repeated delays.
+- Overall operational efficiency remained strong.
 
 ---
 
-![Performance Dashboard](Performance.png)
+# 📚 Skills Applied
 
----
-
-# 📚 Skills Demonstrated
+This project demonstrates:
 
 - Data Cleaning
 - Data Transformation
+- DAX Measures
 - KPI Development
-- DAX Calculations
-- Dashboard Design
-- Data Storytelling
+- Dashboard Designing
 - Business Analysis
+- Data Storytelling
+- Logistics Analytics
 
 ---
 
 # 🚀 Future Improvements
 
-- Real-time data refresh
-- Predictive delivery analysis
-- Geographical map visualizations
-- Delay reason analysis
-- Customer satisfaction metrics
+Planned future enhancements include:
+
+- Real-Time Data Integration
+- Predictive Delivery Analysis
+- Interactive Geo Maps
+- Delay Reason Tracking
+- Customer Satisfaction Analysis
+
+---
+
+# 📷 Dashboard Preview
+
+## Overview Dashboard
+![Overview Dashboard](Overview.png)
+
+---
+
+## Deliveries Dashboard
+![Deliveries Dashboard](Deliveries.png)
+
+---
+
+## Performance Dashboard
+![Performance Dashboard](Performance.png)
 
 ---
 
 # 👨‍💻 Author
 
-Pavan Rajoli
+## Pavan Rajoli
 
 📧 Email: pavanrajoli@gmail.com
+
+Aspiring Data Analyst skilled in:
+- SQL
+- Python
+- Power BI
+- Excel
 
 ---
 
@@ -132,12 +162,15 @@ Pavan Rajoli
 ## 📊 Power BI Dashboard
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTU5NTA2OTItNWNkMS00MjI4LTkxZDktYjA2ZjgyNDVmZjk4IiwidCI6ImEyNGY0OWI3LTM3YjEtNGVmZi1iMmZiLTA5OTI5M2E0ZDBjZSJ9)
 
+---
+
 ## 💻 GitHub Repository
 [GitHub Repository](https://github.com/PavanRajoli/The-Professional-Couriers/blob/main/README.md)
 
+---
+
 ## 🌐 LinkedIn Post
 [LinkedIn Project Post](https://www.linkedin.com/posts/pavan-rajoli_powerbi-dataanalytics-dataanalyst-ugcPost-7462181784357744640-IuDD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGgvhMBwoVzueJjzz2qcMp_muPWBJep8QE)
-
 
 ---
 
