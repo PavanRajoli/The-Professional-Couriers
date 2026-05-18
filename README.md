@@ -217,7 +217,7 @@ Future enhancements planned for this project:
 
 ## Pavan Rajoli
 
-📧 Email: pavanrajoli@gmail.com
+📧 Email: pavan.v.rajoli@gmail.com
 
 ### Skills
 - SQL
