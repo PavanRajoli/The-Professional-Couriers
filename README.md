@@ -136,7 +136,7 @@ Pavan Rajoli
 [GitHub Repository](https://github.com/PavanRajoli/The-Professional-Couriers/blob/main/README.md)
 
 ## 🌐 LinkedIn Post
-[LinkedIn Project Post](PASTE_YOUR_LINKEDIN_POST_LINK_HERE)
+[LinkedIn Project Post](https://www.linkedin.com/posts/pavan-rajoli_powerbi-dataanalytics-dataanalyst-ugcPost-7462181784357744640-IuDD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGgvhMBwoVzueJjzz2qcMp_muPWBJep8QE)
 
 
 ---
