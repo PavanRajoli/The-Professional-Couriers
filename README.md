@@ -106,11 +106,11 @@ The Performance Dashboard evaluates logistics efficiency and delivery speed.
 
 | KPI | Result |
 |---|---|
-| Total Consignments | 1,536 |
-| Delivered Shipments | 1,510 |
-| Pending Deliveries | 26 |
-| On-Time Delivery Rate | 87.67% |
-| Average Delivery Days | 2.21 Days |
+| Total Consignments | 1,835 |
+| Delivered Shipments | 1,786 |
+| Pending Deliveries | 49 |
+| On-Time Delivery Rate | 88.22% |
+| Average Delivery Days | 2.18 Days |
 
 ---
 
